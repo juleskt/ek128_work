@@ -1,0 +1,9 @@
+githubtest.txt: 5 points.
+
+Type your name here: Julian Trinh
+
+
+
+and then sync your file to your repo.
+
+If you cannot do this, raise your hand.
