@@ -1,4 +1,0 @@
-juleskt grade out of 30: 9
-  alphabet (0,)
-  suffixes (5, 'partial credit')
-  olympics (4, 'return sorted list, no names')
